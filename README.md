@@ -241,3 +241,9 @@ Show what the dashboard looks like.
 
 Example: (https://github.com/BikramRaj-tech/Care_Matrics-Dashboard/blob/main/1st_page_of_Dashboard.png)
 
+(https://github.com/BikramRaj-tech/Care_Matrics-Dashboard/blob/main/2nd_page_of_Dashboard.png)
+
+(https://github.com/BikramRaj-tech/Care_Matrics-Dashboard/blob/main/3rd_page_of_Dashboard.png)
+
+(https://github.com/BikramRaj-tech/Care_Matrics-Dashboard/blob/main/4th_page_of_Dashboard.png)
+
