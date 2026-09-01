@@ -237,3 +237,6 @@ Where patients are waiting, where processes are slowing down, where capacity is 
 
 ## 10. Screenshorts / Demos of Dashboard
 
+Show what the dashboard looks like.
+
+Example:
