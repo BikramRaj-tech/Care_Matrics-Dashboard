@@ -239,4 +239,5 @@ Where patients are waiting, where processes are slowing down, where capacity is 
 
 Show what the dashboard looks like.
 
-Example:
+Example: (https://github.com/BikramRaj-tech/Care_Matrics-Dashboard/blob/main/1st_page_of_Dashboard.png)
+
